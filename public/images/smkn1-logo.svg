@@ -1,0 +1,21 @@
+<svg width="260" height="260" viewBox="0 0 260 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="redGlow" x1="40" x2="210" y1="30" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E71D2A"/>
+      <stop offset="1" stop-color="#B91420"/>
+    </linearGradient>
+  </defs>
+
+  <path d="M130 18L193 40V96C193 147 168 186 130 220C92 186 67 147 67 96V40L130 18Z" fill="url(#redGlow)"/>
+  <path d="M130 36L176 52V95C176 134 158 168 130 190C102 168 84 134 84 95V52L130 36Z" fill="#FFFFFF"/>
+
+  <path d="M98 59H162V92H98V59Z" fill="#D81E26"/>
+  <path d="M93 102H167V138H93V102Z" fill="#D81E26"/>
+  <path d="M108 110H152V122H108V110ZM108 128H152V140H108V128Z" fill="#FFFFFF"/>
+
+  <circle cx="130" cy="73" r="15" fill="#D81E26"/>
+  <circle cx="130" cy="74" r="8" fill="#FFFFFF"/>
+
+  <text x="130" y="171" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="800" fill="#1B1B1B">SMKN 1</text>
+  <text x="130" y="193" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1B1B1B">PROBOLINGGO</text>
+</svg>
